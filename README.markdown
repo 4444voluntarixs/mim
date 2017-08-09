@@ -1,26 +1,37 @@
-#Creative by Start Bootstrap - Rails Version
+Voluntários Digitais - coletivo Missão Imigrante
+=================================================
 
-The Rails version of the Creative theme by [Start Bootstrap](http://startbootstrap.com/).
+Assignment para [Gama Experience #8](http://gama.academy/) realizado na semana do dia 7-15 de agosto de 2017, onde o Grupo 4 formou uma parceria com o coletivo Missão Imigrante.
 
-[![Creative theme image][2]][1]
+Domínio Atual
+------
+* http://www.missao.org
 
-  [1]: http://ironsummitmedia.github.io/startbootstrap-creative/
-  [2]: https://github.com/MrPowers/rails-startbootstrap-creative/blob/master/example_image.jpg (Creative theme)
+Estamos utilizando: [Ruby On Rails](https://pt.wikipedia.org/wiki/Ruby_on_Rails) + [StartBootstrap](https://startbootstrap.com/) + [Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby#introduction). Siga os seguintes passos para ter essa página rodando em seu ambiente de desenvolvimento, utilizando Heroku e Ruby On Rails.
 
-## How to add this theme to a Rails application
+Pré-Requisitos:
+------
+* Conta Gratuita Heroku; 
+* Conta Gratuita Github;
+* versão 2.3.4 do Ruby instalada em sua máquina;
+* Linux, MacOS ou outro SO unix-like são fortemente recomendados;
+* Bundle instalado (utilize `gem install bundler`);
 
-The [frontend-generators gem](https://github.com/MrPowers/frontend-generators) provide rake tasks to easily add this theme to a Rails application.  Just include the gem and run the rake task.  The frontend-generators README provides detailed instructions.
+Configurando o ambiente de desenvolvimento
+-------
+* Em seu terminal, execute `git clone https://github.com/4444voluntarixs/mim.git` para clonar o esse repositório em seu estado atual;
+* Então execute `bundle install` para que as gems (bibliotecas necessárias ao projeto) sejam executadas;
+* Execute seu servidor localhost para conhecer a aplicação
 
-## How to set up run this project locally
+Implantando no Heroku a partir do Git
+-------
+* Siga [esse procedimento](https://devcenter.heroku.com/articles/git). 
 
-1. Clone the repo
-2. Run `bundle install` to install the gems
-3. Start the rails server and go to the root path to see the theme!
-
-## Contributing
-
-Feel free to submit a pull request and I'll merge it.
-
-## License
-
-This uses [the same license as the original project](https://github.com/IronSummitMedia/startbootstrap-creative#copyright-and-license).
+RoadMap
+------
+* Doações Financeiras - PayPal ou PagSeguro
+* Blog
+* i18n
+* Integração maior com as redes sociais
+* Doações Financeiras - Bitcoin
+* Admin para blog
