@@ -29,9 +29,10 @@ Implantando no Heroku a partir do Git
 
 RoadMap
 ------
-* Doações Financeiras - PayPal ou PagSeguro
-* Blog
+* Doações Financeiras - PayPal e PagSeguro
+* Google Analytics
 * i18n
+* Blog
+* Admin para blog
 * Integração maior com as redes sociais
 * Doações Financeiras - Bitcoin
-* Admin para blog
