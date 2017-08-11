@@ -29,7 +29,7 @@ Implantando no Heroku a partir do Git
 
 RoadMap
 ------
-* Doações Financeiras - PayPal e PagSeguro
+* PayPal
 * Google Analytics
 * i18n
 * Blog
