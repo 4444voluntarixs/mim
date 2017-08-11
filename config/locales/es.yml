@@ -1,0 +1,51 @@
+es:
+  #navbar
+  about_us: "Sobre"
+  actions: "Ações"
+  photos: "Fotos"
+  support_us: "Apoie!"
+  contact_us: "Contato"
+  
+  missao_imigrante: "Missão Imigrante"
+  subtitle: "MIM - Missão Imigrante tem como propostas de atuação o protagonismo dos imigrantes e refugiados através da valorização das produções científicas e culturais. Uma iniciativa de acolhimento, apoio, articulação e promoção de encontros entre culturas!"
+  know_our_mission: "Conheça Nossa Missão!"
+  
+  uma_missao_de_todos_nos: "Uma Missão de Todos Nós!"
+  o_mim_movimento_autonomo_etc: "O MIM é um movimento autônomo, laico, de caráter científico e cultural, que visa pesquisar, integrar e promover as várias formas de expressão da cultura de imigração e refúgio e encorajar o reconhecimento de sua presença na sociedade brasileira. Formado por imigrantes, refugiados e brasileiros que acreditam na possibilidade de viver em uma sociedade mais justa e inclusiva, o MIM entende que a troca de experiências entre indivíduos é uma importante ferramenta de transformação da sociedade."
+  know_more_about_us: "Saiba Mais!"
+  
+  #services/ações 
+  service_1: "Debates e Encontros"
+  desc_service_1: "Diálogos sobre o presente e o futuro dos imigrantes no Brasil"
+  service_2: "Eventos Multiculturais"
+  desc_service_2: "Promoção da cultura dos imigrantes: oficinas, gastronomia, música e mais!"
+  service_3: "Ativismo Social"
+  desc_service_3: "Luta pelos direitos do imigrante e do refugiado no Brasil"
+  service_4: "Apoio ao Imigrante"
+  desc_service_4: "Acolhimento para o imigrante e o refugiado através de uma rede de solidariedade"
+  
+  #Fotos
+  caption_pic_1: "Equipe"
+  title_pic_1: "Sede da MIM em São Paulo"
+  caption_pic_2: "Julho/2017"
+  title_pic_2: "#FashionAfrikEvent"
+  caption_pic_3: "#FashionAfrikEvent"
+  title_pic_3: "Cheik Gaye Seck"
+  caption_pic_4: "Al Janiah"
+  title_pic_4: "Resistência Internacional: Luta pelos Direitos dos Imigrantes"
+  caption_pic_5: "Março/2017"
+  title_pic_5: "Jobana Moya Aramayo (Warmis)"
+  caption_pic_6: "Julho/2017"
+  title_pic_6: "#FashionAfrikEvent"
+  
+  #call_to_action
+  call_to_action: "Você também pode apoiar a Missão Imigrante!"
+  bank_deposit: "Depósito Bancário"
+  bank_account: "Conta Corrente"
+  bank_branch_number: "Agência"
+  name: "Nome"
+  code: "Código"
+  
+  #contact
+  contact_us_quote: "Entre em contato com a gente!"
+  contact_us_description: "Quer nos apoiar de alguma forma nessa nobre missão? Ótimo! Basta ligar pra gente ou enviar um email e responderemos o mais rápido possível!"

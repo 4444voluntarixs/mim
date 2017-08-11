@@ -1,0 +1,51 @@
+fr:
+  #navbar
+  about_us: "Sur"
+  actions: "Actes"
+  photos: "Photos"
+  support_us: "Soutien-nous!"
+  contact_us: "Contactez nous"
+  
+  missao_imigrante: "Missão Imigrante"
+  subtitle: "MIM - Missão Imigrante a les propositions d'action du rôle des immigrants et des réfugiés à travers la promotion des productions scientifiques et culturelles. Une initiative de l'accueil, le soutien, la coordination et la promotion des rencontres entre les cultures!"
+  know_our_mission: "Rencontrez Notre Mission!"
+  
+  uma_missao_de_todos_nos: "Une Mission de Nous Tous!"
+  o_mim_movimento_autonomo_etc: "Le MIM est un mouvement autonome, le caractère laïque, scientifique et culturelle, qui vise à la recherche, intégrer et promouvoir les différentes formes d'immigration d'expression culturelle et de refuge et encourager la reconnaissance de leur présence dans la société brésilienne. Formé par les immigrants, les réfugiés et les Brésiliens qui croient en la possibilité de vivre dans une société plus juste et plus inclusive, je comprends que l'échange d'expériences entre les individus est un outil important pour la transformation de la société."
+  know_more_about_us: "En Savoir Plus!"
+  
+  #services/ações 
+  service_1: "Débats et Réunions"
+  desc_service_1: "Dialogues sur le présent et l'avenir des immigrants au Brésil"
+  service_2: "Événements Multiculturels"
+  desc_service_2: "Promotion de la culture des immigrants: des ateliers, la gastronomie, la musique et plus encore!"
+  service_3: "L'Activisme Social"
+  desc_service_3: "Lutte pour les droits des immigrants et des réfugiés au Brésil"
+  service_4: "Soutien aux Immigrants"
+  desc_service_4: "Accueil des immigrants et des réfugiés par le biais d'un réseau de solidarité"
+  
+  #Fotos
+  caption_pic_1: "Équipe"
+  title_pic_1: "Siège de ME à São Paulo"
+  caption_pic_2: "Juillet/2017"
+  title_pic_2: "#FashionAfrikEvent"
+  caption_pic_3: "#FashionAfrikEvent"
+  title_pic_3: "Cheik Gaye Seck"
+  caption_pic_4: "Al Janiah"
+  title_pic_4: "Résistance Internationale: La lutte pour les droits des immigrés"
+  caption_pic_5: "Mars/2017"
+  title_pic_5: "Jobana Moya Aramayo (Warmis)"
+  caption_pic_6: "Juillet/2017"
+  title_pic_6: "#FashionAfrikEvent"
+  
+  #call_to_action
+  call_to_action: "Vous pouvez également prendre en charge la Missão Imigrante!"
+  bank_deposit: "Dépôt"
+  bank_account: "Compte Courant"
+  bank_branch_number: "Succursale"
+  name: "Nome"
+  code: "Code"
+  
+  #contact
+  contact_us_quote: "Contactez-nous!"
+  contact_us_description: "Veut-nous soutenir de quelque façon que dans cette noble mission? Il suffit de nous appeler ou envoyer un courriel et nous vous répondrons dans les plus brefs délais!"
