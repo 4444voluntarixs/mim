@@ -1,7 +1,9 @@
 <aside class="bg-dark" id="donation">
     <div class="container text-center">
         <div class="call-to-action">
-            <h2>Você também pode apoiar a Missão Imigrante!</h2>
+            <h2>
+                <%= t "call_to_action" %>
+            </h2>
             <hr>
             <!--<div class="col-md-4">-->
             <!--    <a href="mailto:missao.imigrante@gmail.com" class="btn btn-default btn-xl wow tada">Doe Agora!</a>-->
@@ -12,16 +14,21 @@
                 	<input type="hidden" name="currency" value="BRL" />
                 	<input type="hidden" name="receiverEmail" value="kamandachristo@gmail.com" />
                 	<input type="hidden" name="iot" value="button" />
-                	<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                	<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-assina.gif" 
+                	    name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
                 </form>
             </div>
             <div class="col-md-6">
-                <h3>Depósito Bancário</h3>
-                <p>Banco do Brasil<br>
-                Conta Corrente 29854-9<br>
-                Agência 2809-6<br>
-                CPF 237.932.268-67<br>
-                Christ Wa T. Kamanda</p>
+                <h3>
+                    <%= t "bank_deposit" %>
+                </h3>
+                <p>Banco do Brasil (<%= t "code" %> 1)<br>
+                <%= t "bank_account" %>: 29854-9<br>
+                <%= t "bank_branch_number" %>: 2809-6<br>
+                CPF: 237.932.268-67<br>
+                <%= t "name" %>: <a href="https://www.linkedin.com/in/christ-wa-tshibuabua-kamanda-7154b6107/?ppe=1"
+                    target="_blank">
+                    Christ Wa T. Kamanda</a></p>
             </div>
         </div>
     </div>
