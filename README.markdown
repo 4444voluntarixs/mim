@@ -29,9 +29,9 @@ Implantando no Heroku a partir do Git
 
 RoadMap
 ------
+* NavBar com Idiomas Disponíveis
 * PayPal
 * Google Analytics
-* i18n
 * Blog
 * Admin para blog
 * Integração maior com as redes sociais
