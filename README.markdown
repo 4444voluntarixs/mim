@@ -29,7 +29,6 @@ Implantando no Heroku a partir do Git
 
 RoadMap
 ------
-* NavBar com Idiomas Disponíveis
 * PayPal
 * Google Analytics
 * Blog
