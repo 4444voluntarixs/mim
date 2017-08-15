@@ -27,11 +27,13 @@ Implantando no Heroku a partir do Git
 -------
 * Siga [esse procedimento](https://devcenter.heroku.com/articles/git). 
 
-RoadMap
+Ideias
 ------
+* Album de fotos e vídeos
 * PayPal
 * Google Analytics
 * Blog
 * Admin para blog
 * Integração maior com as redes sociais
 * Doações Financeiras - Bitcoin
+* ChatBot com [Watson](https://www.ibm.com/blogs/watson/2016/12/build-chat-bot/) 
