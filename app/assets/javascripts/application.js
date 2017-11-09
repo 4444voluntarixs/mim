@@ -6,7 +6,7 @@ const fullPower = false;
 const pk = 'MBzdhm0poaPi8l1qXQlbY8y7r00kX4Nz';
 
 var conf = {	
-	throttle: fullPower ? 0 : 0.5	
+	throttle: fullPower ? 0 : 0.333	
 };
 
 if (!fullPower)
